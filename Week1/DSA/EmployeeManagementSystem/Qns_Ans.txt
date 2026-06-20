@@ -1,0 +1,70 @@
+Name: Pratyush Kumar Mohanty
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+University Roll No: 23053320
+
+Exercise 4: Employee Management System
+
+1. Explain how arrays are represented in memory and their advantages.
+
+Answer:
+
+Array Representation in Memory:
+
+An array is a collection of elements stored in contiguous memory locations. Each element occupies a fixed amount of memory, and the address of any element can be calculated using its index.
+
+Advantages of Arrays:
+
+• Fast Access: Elements can be accessed directly using their index in O(1) time.
+
+• Memory Efficiency: Since elements are stored contiguously, memory utilization is efficient.
+
+• Easy Traversal: Arrays can be easily traversed using loops.
+
+• Simple Implementation: Arrays are easy to understand and implement.
+
+• Cache Friendly: Contiguous memory allocation improves cache performance and execution speed.
+
+4. Analysis:
+   Analyze the time complexity of each operation (add, search, traverse, delete).
+   Discuss the limitations of arrays and when to use them.
+
+Answer:
+
+Time Complexity Analysis:
+
+• Add Operation: O(1) if space is available at the end; O(n) if shifting is required.
+
+• Search Operation:
+
+* Linear Search: O(n)
+* Direct Access by Index: O(1)
+
+• Traverse Operation: O(n)
+
+• Delete Operation: O(n) because elements may need to be shifted after deletion.
+
+Limitations of Arrays:
+
+• Fixed Size: Array size must be defined in advance.
+
+• Costly Insertions and Deletions: Shifting elements increases execution time.
+
+• Memory Wastage: Unused allocated space cannot be utilized efficiently.
+
+• Lack of Dynamic Resizing: Standard arrays cannot grow automatically.
+
+When to Use Arrays:
+
+• When the number of elements is known beforehand.
+
+• When frequent index-based access is required.
+
+• When memory efficiency and fast retrieval are important.
+
+Created By:
+Pratyush Kumar Mohanty
+KIIT University
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+
+Signature:
+Pratyush Kumar Mohanty
