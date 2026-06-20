@@ -7,3 +7,4 @@ public class CreditCardPayment implements PaymentStrategy {
         System.out.println("Paid Rs." + amount + " using Credit Card");
     }
 }
+//
