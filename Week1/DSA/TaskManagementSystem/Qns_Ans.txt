@@ -1,0 +1,69 @@
+Name: Pratyush Kumar Mohanty
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+University Roll No: 23053320
+
+Exercise 5: Task Management System
+
+1. Explain the different types of linked lists (Singly Linked List, Doubly Linked List).
+
+Answer:
+
+The Different Types of Linked Lists are:
+
+• Singly Linked List:
+A Singly Linked List consists of nodes where each node contains data and a reference to the next node. Traversal is possible only in the forward direction.
+
+• Doubly Linked List:
+A Doubly Linked List consists of nodes containing data, a reference to the next node, and a reference to the previous node. Traversal can be performed in both forward and backward directions.
+
+Comparison:
+
+• Singly Linked List uses less memory because it stores only one reference.
+• Doubly Linked List requires more memory but provides easier navigation and deletion operations.
+
+4. Analysis:
+   Analyze the time complexity of each operation.
+   Discuss the advantages of linked lists over arrays for dynamic data.
+
+Answer:
+
+Time Complexity Analysis:
+
+• Add Operation:
+
+* At Beginning: O(1)
+* At End: O(n)
+
+• Search Operation: O(n)
+
+• Traverse Operation: O(n)
+
+• Delete Operation:
+
+* Beginning: O(1)
+* Specific Node: O(n)
+
+Advantages of Linked Lists over Arrays:
+
+• Dynamic Size:
+Linked Lists can grow and shrink dynamically during runtime.
+
+• Efficient Insertions and Deletions:
+No shifting of elements is required, unlike arrays.
+
+• Better Memory Utilization:
+Memory is allocated as needed.
+
+• Flexible Data Structure:
+Suitable for applications where the number of elements changes frequently.
+
+• Easy Implementation of Dynamic Applications:
+Widely used in task schedulers, operating systems, and memory management systems.
+
+Created By:
+Pratyush Kumar Mohanty
+KIIT University
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+
+Signature:
+Pratyush Kumar Mohanty
