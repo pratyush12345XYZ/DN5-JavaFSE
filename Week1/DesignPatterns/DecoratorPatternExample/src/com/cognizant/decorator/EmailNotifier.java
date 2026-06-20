@@ -7,3 +7,4 @@ public class EmailNotifier implements Notifier {
         System.out.println("Sending Email: " + message);
     }
 }
+//
