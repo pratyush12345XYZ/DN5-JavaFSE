@@ -1,0 +1,57 @@
+Name: Pratyush Kumar Mohanty
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+University Roll No: 23053320
+
+Exercise 3: Sorting Customer Orders
+
+1. Explain different sorting algorithms (Bubble Sort, Insertion Sort, Quick Sort, Merge Sort).
+
+Answer:
+
+The Different Sorting Algorithms are:
+
+• Bubble Sort:
+Bubble Sort repeatedly compares adjacent elements and swaps them if they are in the wrong order. It is simple to implement but inefficient for large datasets.
+
+• Insertion Sort:
+Insertion Sort builds a sorted array one element at a time by placing each element in its correct position. It performs well for small or nearly sorted datasets.
+
+• Quick Sort:
+Quick Sort uses a divide-and-conquer approach. It selects a pivot element and partitions the array into smaller subarrays, which are then sorted recursively.
+
+• Merge Sort:
+Merge Sort divides the array into smaller subarrays, sorts them recursively, and then merges them into a sorted array. It guarantees efficient performance for large datasets.
+
+4. Analysis:
+   Compare the performance (time complexity) of Bubble Sort and Quick Sort.
+   Discuss why Quick Sort is generally preferred over Bubble Sort.
+
+Answer:
+
+The Time Complexity Comparison:
+
+Bubble Sort:
+• Best Case: O(n)
+• Average Case: O(n²)
+• Worst Case: O(n²)
+
+Quick Sort:
+• Best Case: O(n log n)
+• Average Case: O(n log n)
+• Worst Case: O(n²)
+
+Why Quick Sort is Preferred:
+
+• Quick Sort is significantly faster for large datasets.
+• It follows the divide-and-conquer strategy, reducing the number of comparisons.
+• Average-case performance is much better than Bubble Sort.
+• It requires less memory than Merge Sort because it sorts in-place.
+• It is widely used in real-world applications due to its efficiency and scalability.
+
+Created By:
+Pratyush Kumar Mohanty
+KIIT University
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+
+Signature:
+Pratyush Kumar Mohanty
