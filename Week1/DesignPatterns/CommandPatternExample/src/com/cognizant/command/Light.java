@@ -10,3 +10,4 @@ public class Light {
         System.out.println("Light is OFF");
     }
 }
+//
