@@ -16,3 +16,4 @@ public class MobileApp implements Observer {
                         + stockName + " price is Rs." + stockPrice);
     }
 }
+//
