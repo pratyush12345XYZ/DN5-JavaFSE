@@ -1,0 +1,75 @@
+Name: Pratyush Kumar Mohanty
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+University Roll No: 23053320
+
+Exercise 1: Inventory Management System
+
+1. Explain why data structures and algorithms are essential in handling large inventories.
+
+Answer:
+
+The Importance of Data Structures and Algorithms are:
+
+• Efficiency: Large inventories contain thousands of products. Efficient data structures help store and retrieve product information quickly.
+
+• Faster Search Operations: Algorithms enable quick searching of products based on product ID or name.
+
+• Better Resource Utilization: Proper data structures reduce memory usage and improve processing speed.
+
+• Scalability: As the inventory grows, efficient algorithms ensure that system performance remains stable.
+
+• Data Management: They help in organizing, updating, and deleting inventory records effectively.
+
+2. Discuss the types of data structures suitable for this problem.
+
+Answer:
+
+The Suitable Data Structures are:
+
+• ArrayList:
+Stores products sequentially and allows index-based access. Suitable for small inventories but searching requires linear traversal.
+
+• HashMap:
+Stores products using productId as a key and Product object as a value. Provides very fast lookup, insertion, and deletion operations.
+
+• Linked List:
+Useful when frequent insertions and deletions are required.
+
+• TreeMap:
+Maintains products in sorted order and supports efficient searching.
+
+For this implementation, HashMap is the most suitable choice because it provides constant-time average complexity for most operations.
+
+4. Analysis:
+   Analyze the time complexity of each operation (add, update, delete) in your chosen data structure.
+   Discuss how you can optimize these operations.
+
+Answer:
+
+Time Complexity Analysis (Using HashMap):
+
+• Add Operation: O(1) average case
+
+• Update Operation: O(1) average case
+
+• Delete Operation: O(1) average case
+
+Optimization Strategies:
+
+• Use an efficient hash function to reduce collisions.
+
+• Maintain proper load factor for the HashMap.
+
+• Use caching for frequently accessed products.
+
+• Perform batch updates when processing multiple inventory records.
+
+• Use indexing techniques for advanced inventory search operations.
+
+Created By:
+Pratyush Kumar Mohanty
+KIIT University
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+
+Signature:
+Pratyush Kumar Mohanty
