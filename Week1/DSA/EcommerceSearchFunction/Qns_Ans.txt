@@ -1,0 +1,68 @@
+Name: Pratyush Kumar Mohanty
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+University Roll No: 23053320
+
+Exercise 2: E-commerce Platform Search Function
+
+1. Explain Big O notation and how it helps in analyzing algorithms.
+
+Answer:
+
+Big O notation is a mathematical representation used to describe the performance and efficiency of an algorithm as the input size increases.
+
+The Importance of Big O Notation are:
+• Performance Measurement: Helps determine how an algorithm scales with increasing data size.
+• Comparison of Algorithms: Allows comparison between multiple algorithms.
+• Resource Optimization: Helps developers choose efficient algorithms to reduce execution time and memory usage.
+• Scalability: Ensures applications remain efficient when handling large datasets.
+
+2. Describe the best, average, and worst-case scenarios for search operations.
+
+Answer:
+
+The Search Scenarios are:
+
+• Best Case:
+The target element is found immediately.
+Linear Search: O(1)
+Binary Search: O(1)
+
+• Average Case:
+The target element is found somewhere in the middle of the dataset.
+Linear Search: O(n)
+Binary Search: O(log n)
+
+• Worst Case:
+The target element is at the end of the dataset or not present.
+Linear Search: O(n)
+Binary Search: O(log n)
+
+4. Analysis:
+   Compare the time complexity of linear and binary search algorithms.
+   Discuss which algorithm is more suitable for your platform and why.
+
+Answer:
+
+The Time Complexity Comparison:
+
+Linear Search:
+• Best Case: O(1)
+• Average Case: O(n)
+• Worst Case: O(n)
+
+Binary Search:
+• Best Case: O(1)
+• Average Case: O(log n)
+• Worst Case: O(log n)
+
+Suitable Algorithm:
+
+Binary Search is more suitable for an e-commerce platform because product data is usually large and can be maintained in sorted order. Binary Search significantly reduces search time compared to Linear Search, resulting in faster product retrieval and improved user experience.
+
+Created By:
+Pratyush Kumar Mohanty
+KIIT University
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+
+Signature:
+Pratyush Kumar Mohanty
