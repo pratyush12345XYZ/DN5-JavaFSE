@@ -1,0 +1,71 @@
+Name: Pratyush Kumar Mohanty
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+University Roll No: 23053320
+
+Exercise 7: Financial Forecasting
+
+1. Explain the concept of recursion and how it can simplify certain problems.
+
+Answer:
+
+Recursion is a programming technique in which a method calls itself repeatedly to solve a problem. A recursive solution breaks a complex problem into smaller sub-problems of the same type until a base condition is reached.
+
+Advantages of Recursion:
+
+• Simplifies complex problems by breaking them into smaller parts.
+
+• Produces cleaner and more readable code.
+
+• Useful for problems that can be defined recursively, such as tree traversal, factorial calculation, Fibonacci series, and financial forecasting.
+
+• Reduces the need for complex loops in certain scenarios.
+
+• Closely matches the mathematical definition of many problems.
+
+In this financial forecasting application, recursion is used to calculate future values based on previous growth rates.
+
+4. Analysis:
+   Discuss the time complexity of your recursive algorithm.
+   Explain how to optimize the recursive solution to avoid excessive computation.
+
+Answer:
+
+Time Complexity Analysis:
+
+• If the recursive function makes one recursive call for each step, the time complexity is O(n), where n represents the number of years or forecasting periods.
+
+• The space complexity is O(n) due to the recursive call stack.
+
+Optimization Techniques:
+
+• Memoization:
+Store previously calculated results to avoid repeated calculations.
+
+• Dynamic Programming:
+Convert the recursive solution into an iterative solution for improved efficiency.
+
+• Tail Recursion:
+Use tail-recursive techniques when supported by the programming language.
+
+• Reduce Redundant Computation:
+Avoid recalculating the same values multiple times.
+
+Benefits of Optimization:
+
+• Faster execution.
+
+• Reduced memory consumption.
+
+• Improved scalability for larger forecasting periods.
+
+Conclusion:
+
+Recursion provides an elegant solution for financial forecasting problems. However, optimization techniques such as memoization and dynamic programming should be used for larger datasets to improve performance and avoid excessive computation.
+
+Created By:
+Pratyush Kumar Mohanty
+KIIT University
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+
+Signature:
+Pratyush Kumar Mohanty
