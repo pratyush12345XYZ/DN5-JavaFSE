@@ -1,0 +1,65 @@
+Name: Pratyush Kumar Mohanty
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+University Roll No: 23053320
+
+Exercise 6: Library Management System
+
+1. Explain linear search and binary search algorithms.
+
+Answer:
+
+The Search Algorithms are:
+
+• Linear Search:
+Linear Search checks each element one by one until the required element is found or the end of the list is reached. It does not require the data to be sorted.
+
+• Binary Search:
+Binary Search works by repeatedly dividing the search space into two halves. It compares the target value with the middle element and eliminates half of the remaining elements in each step. Binary Search requires the data to be sorted.
+
+Comparison:
+
+• Linear Search is simple and works on both sorted and unsorted data.
+• Binary Search is much faster but requires a sorted dataset.
+
+4. Analysis:
+   Compare the time complexity of linear and binary search.
+   Discuss when to use each algorithm based on the data set size and order.
+
+Answer:
+
+Time Complexity Comparison:
+
+Linear Search:
+• Best Case: O(1)
+• Average Case: O(n)
+• Worst Case: O(n)
+
+Binary Search:
+• Best Case: O(1)
+• Average Case: O(log n)
+• Worst Case: O(log n)
+
+When to Use Linear Search:
+
+• When the dataset is small.
+• When the data is unsorted.
+• When simplicity is preferred over performance.
+
+When to Use Binary Search:
+
+• When the dataset is large.
+• When the data is already sorted.
+• When fast searching is required.
+• In applications where search operations are performed frequently.
+
+Conclusion:
+
+Binary Search is generally preferred for large sorted datasets because it significantly reduces the number of comparisons required to find an element.
+
+Created By:
+Pratyush Kumar Mohanty
+KIIT University
+Email: [pratyushmohanty12345@gmail.com](mailto:pratyushmohanty12345@gmail.com)
+
+Signature:
+Pratyush Kumar Mohanty
