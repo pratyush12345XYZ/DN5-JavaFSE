@@ -1,0 +1,44 @@
+PL/SQL Exercises
+
+Name: Pratyush Kumar Mohanty
+University Roll No.: 23053320
+Email: pratyushmohanty12345@gmail.com
+University: KIIT University
+
+Description:
+
+This folder contains the solutions for the PL/SQL exercises completed as part of the Cognizant Digital Nurture 4.0 Java FSE program.
+
+The implementation covers the following PL/SQL concepts:
+
+• Control Structures
+• Exception Handling
+• Stored Procedures
+• Functions
+• Triggers
+• Cursors
+• Packages
+
+Each exercise has been organized into separate SQL files according to the scenarios provided in the handbook. The SQL files contain only the implementation of the required PL/SQL objects such as procedures, functions, triggers, cursors, and packages.
+
+For verification purposes, each scenario was executed in Oracle SQL Developer, and the corresponding output screenshots have been included. These screenshots demonstrate the successful execution and validation of the implemented solutions.
+
+Folder Structure:
+
+- SQL Files (Implementation)
+- Output Screenshots (Execution Results)
+- Supporting Files (if applicable)
+
+Development Environment:
+
+• Oracle Database
+• Oracle SQL Developer
+• PL/SQL
+
+Author:
+Pratyush Kumar Mohanty
+KIIT University
+Email: pratyushmohanty12345@gmail.com
+
+Signature:
+Pratyush Kumar Mohanty
